@@ -1,0 +1,6 @@
+matplotlib
+rapidfuzz
+pandas
+discord
+pyinstaller
+pyyaml
